@@ -13,4 +13,4 @@ COPY . .
 # Hugging Face Spaces require port 7860
 EXPOSE 7860
 
-CMD ["python", "server_ml.py"]
+CMD ["python", "app.py"]
