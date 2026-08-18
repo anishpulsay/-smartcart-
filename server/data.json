@@ -5,21 +5,21 @@
       "price": 30,
       "weight": 1000,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000150-3_4-fresho-onion.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_377041.jpg"
     },
     {
       "name": "Potato Fresh",
       "price": 25,
       "weight": 1000,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40320936_1-fresho-potato-fresh-crop.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_393302.jpg"
     },
     {
       "name": "Tomato Fresh",
       "price": 40,
       "weight": 1000,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000203-2_2-fresho-tomato-local.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_437434.jpg"
     },
     {
       "name": "Green Chilli",
@@ -61,7 +61,7 @@
       "price": 80,
       "weight": 500,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40319249_1-fresho-apple-fuji.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_404143.jpg"
     },
     {
       "name": "Banana Robusta",
@@ -75,14 +75,14 @@
       "price": 130,
       "weight": 200,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/m/40240135_2-akshayakalpa-organic-artisan-cheese-slices-pure-without-preservatives.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_18115.jpg"
     },
     {
       "name": "Amul Butter Unsalted",
       "price": 56,
       "weight": 100,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/s/40069116-7_3-amul-unsalted-butter.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_145901.jpg"
     },
     {
       "name": "Britannia Bread White",
@@ -111,7 +111,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/294273-4_14-lays-wafer-style-classic-salted.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_14167.jpg"
     },
     {
       "barcode": "8901000000001",
@@ -119,7 +119,7 @@
       "price": 40,
       "weight": 90,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/298588-2_5-lays-potato-chips-classic-salted.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_14167.jpg"
     },
     {
       "barcode": "8901000000002",
@@ -127,7 +127,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40049037_5-kurkure-namkeen-salted-peanuts.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_323493.jpg"
     },
     {
       "barcode": "8901000000003",
@@ -135,7 +135,7 @@
       "price": 40,
       "weight": 90,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40049037_5-kurkure-namkeen-salted-peanuts.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_323493.jpg"
     },
     {
       "barcode": "8901000000004",
@@ -223,7 +223,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40127986-2_3-lays-chips-american-style-cream-onion.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_14166.jpg"
     },
     {
       "barcode": "8901000000015",
@@ -279,7 +279,7 @@
       "price": 30,
       "weight": 150,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/104065-2_1-parle-parle-g-biscuits.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_14781.jpg"
     },
     {
       "barcode": "8901000000022",
@@ -287,7 +287,7 @@
       "price": 50,
       "weight": 250,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/104065-2_1-parle-parle-g-biscuits.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_14781.jpg"
     },
     {
       "barcode": "8901000000023",
@@ -375,7 +375,7 @@
       "price": 28,
       "weight": 500,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/s/40005033_1-amul-moti-homogenised-toned-milk.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_160354.jpg"
     },
     {
       "barcode": "8901000000035",
@@ -399,7 +399,7 @@
       "price": 34,
       "weight": 500,
       "category": "Dairy",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40090894_7-amul-taaza.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_14389.jpg"
     },
     {
       "barcode": "8901000000038",
@@ -431,7 +431,7 @@
       "price": 20,
       "weight": 250,
       "category": "Beverages",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40269290_1-coca-cola-zero-sugar-no-calories-soft-drink-carbonated-water.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_12061.jpg"
     },
     {
       "barcode": "8901000000042",
@@ -439,7 +439,7 @@
       "price": 40,
       "weight": 750,
       "category": "Beverages",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40269290_1-coca-cola-zero-sugar-no-calories-soft-drink-carbonated-water.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_12061.jpg"
     },
     {
       "barcode": "8901000000043",
@@ -527,7 +527,7 @@
       "price": 20,
       "weight": 250,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40269289_1-coca-cola-original-cold-drink-carbonated-water-delicious-refreshing.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_14594.jpg"
     },
     {
       "barcode": "8901000000054",
@@ -535,7 +535,7 @@
       "price": 40,
       "weight": 750,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40269291_1-thums-up-cold-drink-soft-drink-strong-spicy-fizzy-cold-drink-taste-the-thunder.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_14594.jpg"
     },
     {
       "barcode": "8901000000055",
@@ -543,7 +543,7 @@
       "price": 14,
       "weight": 70,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/groot/images/232022-197480c1-3rd-module-01.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_13220.jpg"
     },
     {
       "barcode": "8901000000056",
@@ -551,7 +551,7 @@
       "price": 28,
       "weight": 140,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/m/40326917_1-maggi-happy-bowl-yummy-masala-instant-noodles.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_32269.jpg"
     },
     {
       "barcode": "8901000000057",
@@ -591,7 +591,7 @@
       "price": 72,
       "weight": 500,
       "category": "Household",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/m/40268238_1-surf-excel-easy-wash-detergent-powder-removes-tough-stains.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_240092.jpg"
     },
     {
       "barcode": "8901000000064",
@@ -599,7 +599,7 @@
       "price": 72,
       "weight": 500,
       "category": "Household",
-      "imageUrl": "https://m.media-amazon.com/images/I/61Gdmami7xL._SL1500_.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_16035.jpg"
     },
     {
       "barcode": "8901000000065",
@@ -607,7 +607,7 @@
       "price": 72,
       "weight": 500,
       "category": "Household",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40128635-2_1-tide-detergent-washing-powder-jasmine-rose-extra-power-tide.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_478051.jpg"
     },
     {
       "barcode": "8901000000066",
@@ -823,7 +823,7 @@
       "price": 20,
       "weight": 40,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/212684_3-cadbury-chocolate-5-star.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_24156.jpg"
     },
     {
       "barcode": "8901000000100",
@@ -831,7 +831,7 @@
       "price": 45,
       "weight": 80,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/212684_3-cadbury-chocolate-5-star.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_24156.jpg"
     },
     {
       "barcode": "8901000000101",
@@ -1095,7 +1095,7 @@
       "price": 60,
       "weight": 1000,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/161826-2_5-aashirvaad-atta-whole-wheat.jpg"
+      "imageUrl": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=540/app/images/products/full_image/pro_168869.jpg"
     },
     {
       "barcode": "8901000000137",
