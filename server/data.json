@@ -5,7 +5,7 @@
       "price": 30,
       "weight": 1000,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/10000150_1-fresho-onion.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/10000150-3_4-fresho-onion.jpg"
     },
     {
       "name": "Potato Fresh",
@@ -19,14 +19,14 @@
       "price": 40,
       "weight": 1000,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/10000203_1-fresho-tomato-local.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/10000203-2_2-fresho-tomato-local.jpg"
     },
     {
       "name": "Green Chilli",
       "price": 15,
       "weight": 100,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291999_1-nilons-green-chilli-sauce.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291999-2_1-nilons-green-chilli-sauce.jpg"
     },
     {
       "name": "Coriander Leaves",
@@ -40,21 +40,21 @@
       "price": 15,
       "weight": 100,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40009315_1-lifebuoy-lemon-fresh-soap-bar.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40009315-3_1-lifebuoy-lemon-fresh-soap-bar.jpg"
     },
     {
       "name": "Garlic Fresh",
       "price": 45,
       "weight": 200,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/10000114_1-fresho-garlic.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/10000114_17-fresho-garlic.jpg"
     },
     {
       "name": "Ginger Fresh",
       "price": 35,
       "weight": 200,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/10000117_1-fresho-ginger.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/10000117_17-fresho-ginger.jpg"
     },
     {
       "name": "Apple Fuji",
@@ -68,42 +68,42 @@
       "price": 40,
       "weight": 500,
       "category": "Fruits & Vegetables",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40110141_1-fresho-banana-robusta-premium-institutional.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40110141-2_1-fresho-banana-robusta-premium-institutional.jpg"
     },
     {
       "name": "Amul Cheese Slices",
       "price": 130,
       "weight": 200,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40240135_1-akshayakalpa-organic-artisan-cheese-slices-pure-without-preservatives.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40240135_2-akshayakalpa-organic-artisan-cheese-slices-pure-without-preservatives.jpg"
     },
     {
       "name": "Amul Butter Unsalted",
       "price": 56,
       "weight": 100,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40069116_1-amul-unsalted-butter.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40069116-7_3-amul-unsalted-butter.jpg"
     },
     {
       "name": "Britannia Bread White",
       "price": 45,
       "weight": 400,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/20000004_1-britannia-bread-healthy-slice.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/20000004_4-britannia-bread-healthy-slice.jpg"
     },
     {
       "name": "Britannia Bread Brown",
       "price": 50,
       "weight": 400,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/20000006_1-britannia-bread-brown.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/20000006-2_3-britannia-bread-brown.jpg"
     },
     {
       "name": "Eggs Regular 6 pcs",
       "price": 42,
       "weight": 300,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40030400_1-happy-eggs-eggs.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40030400-2_1-happy-eggs-eggs.jpg"
     },
     {
       "barcode": "8901000000000",
@@ -111,7 +111,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/294273_1-lays-wafer-style-classic-salted.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/294273-4_14-lays-wafer-style-classic-salted.jpg"
     },
     {
       "barcode": "8901000000001",
@@ -119,7 +119,7 @@
       "price": 40,
       "weight": 90,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/298588_1-lays-potato-chips-classic-salted.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/298588-2_5-lays-potato-chips-classic-salted.jpg"
     },
     {
       "barcode": "8901000000002",
@@ -127,7 +127,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40049037_1-kurkure-namkeen-salted-peanuts.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40049037_5-kurkure-namkeen-salted-peanuts.jpg"
     },
     {
       "barcode": "8901000000003",
@@ -135,7 +135,7 @@
       "price": 40,
       "weight": 90,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40049037_1-kurkure-namkeen-salted-peanuts.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40049037_5-kurkure-namkeen-salted-peanuts.jpg"
     },
     {
       "barcode": "8901000000004",
@@ -159,7 +159,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40058979_1-doritos-nacho-cheese.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40058979-5_6-doritos-nacho-cheese.jpg"
     },
     {
       "barcode": "8901000000007",
@@ -167,7 +167,7 @@
       "price": 40,
       "weight": 90,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40058979_1-doritos-nacho-cheese.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40058979-5_6-doritos-nacho-cheese.jpg"
     },
     {
       "barcode": "8901000000008",
@@ -175,7 +175,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261729_1-pringles-potato-crisps-classic-salted-on-the-go-crunchy-snack.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261729-4_1-pringles-potato-crisps-classic-salted-on-the-go-crunchy-snack.jpg"
     },
     {
       "barcode": "8901000000009",
@@ -183,7 +183,7 @@
       "price": 40,
       "weight": 90,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261729_1-pringles-potato-crisps-classic-salted-on-the-go-crunchy-snack.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261729-4_1-pringles-potato-crisps-classic-salted-on-the-go-crunchy-snack.jpg"
     },
     {
       "barcode": "8901000000010",
@@ -207,7 +207,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40302841_1-too-yumm-namkeen-salted-peanuts.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40302841-2_4-too-yumm-namkeen-salted-peanuts.jpg"
     },
     {
       "barcode": "8901000000013",
@@ -215,7 +215,7 @@
       "price": 40,
       "weight": 90,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40302841_1-too-yumm-namkeen-salted-peanuts.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40302841-2_4-too-yumm-namkeen-salted-peanuts.jpg"
     },
     {
       "barcode": "8901000000014",
@@ -223,7 +223,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40127986_1-lays-chips-american-style-cream-onion.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40127986-2_3-lays-chips-american-style-cream-onion.jpg"
     },
     {
       "barcode": "8901000000015",
@@ -231,7 +231,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40297310_1-kurkure-playz-pastax-creamy-herb-onion-flavour.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40297310-3_1-kurkure-playz-pastax-creamy-herb-onion-flavour.jpg"
     },
     {
       "barcode": "8901000000016",
@@ -239,7 +239,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40219146_1-bingo-potato-chips-cream-onion.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40219146-3_4-bingo-potato-chips-cream-onion.jpg"
     },
     {
       "barcode": "8901000000017",
@@ -247,7 +247,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1200436_1-bb-combo-lays-american-style-cream-onion-flavour-chips-52-g-doritos-nacho-cheese-39-g.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1200436_4-bb-combo-lays-american-style-cream-onion-flavour-chips-52-g-doritos-nacho-cheese-39-g.jpg"
     },
     {
       "barcode": "8901000000018",
@@ -255,7 +255,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100006683_1-pringles-sour-cream-onion.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100006683-6_2-pringles-sour-cream-onion.jpg"
     },
     {
       "barcode": "8901000000019",
@@ -263,7 +263,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40067012_1-haldiram-cream-doughnut.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40067012-2_12-haldiram-cream-doughnut.jpg"
     },
     {
       "barcode": "8901000000020",
@@ -271,7 +271,7 @@
       "price": 20,
       "weight": 52,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1208337_1-too-yumm-multigrain-chips-50gveggie-stix-sour-cream-onion-50gkarare-munchy-masala-80g.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1208337_6-too-yumm-multigrain-chips-50gveggie-stix-sour-cream-onion-50gkarare-munchy-masala-80g.jpg"
     },
     {
       "barcode": "8901000000021",
@@ -279,7 +279,7 @@
       "price": 30,
       "weight": 150,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/104065_1-parle-parle-g-biscuits.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/104065-2_1-parle-parle-g-biscuits.jpg"
     },
     {
       "barcode": "8901000000022",
@@ -287,7 +287,7 @@
       "price": 50,
       "weight": 250,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/104065_1-parle-parle-g-biscuits.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/104065-2_1-parle-parle-g-biscuits.jpg"
     },
     {
       "barcode": "8901000000023",
@@ -295,7 +295,7 @@
       "price": 30,
       "weight": 150,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/414935_1-britannia-good-day-cashew-cookies.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/414935-2_1-britannia-good-day-cashew-cookies.jpg"
     },
     {
       "barcode": "8901000000024",
@@ -303,7 +303,7 @@
       "price": 50,
       "weight": 250,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/414935_1-britannia-good-day-cashew-cookies.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/414935-2_1-britannia-good-day-cashew-cookies.jpg"
     },
     {
       "barcode": "8901000000025",
@@ -311,7 +311,7 @@
       "price": 30,
       "weight": 150,
       "category": "Snacks",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/20005972_1-oreo-oreo-original-sandwich-biscuits.jpg"
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/20005972_3-oreo-oreo-original-sandwich-biscuits.jpg"
     },
     {
       "barcode": "8901000000026",
@@ -319,7 +319,7 @@
       "price": 50,
       "weight": 250,
       "category": "Snacks",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/20005972_1-oreo-oreo-original-sandwich-biscuits.jpg"
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/20005972_3-oreo-oreo-original-sandwich-biscuits.jpg"
     },
     {
       "barcode": "8901000000027",
@@ -327,7 +327,7 @@
       "price": 30,
       "weight": 150,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/30008604_1-sunfeast-dark-fantasy-bourbon-chocolate-cream-biscuits.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/30008604_2-sunfeast-dark-fantasy-bourbon-chocolate-cream-biscuits.jpg"
     },
     {
       "barcode": "8901000000028",
@@ -335,7 +335,7 @@
       "price": 50,
       "weight": 250,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/30008604_1-sunfeast-dark-fantasy-bourbon-chocolate-cream-biscuits.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/30008604_2-sunfeast-dark-fantasy-bourbon-chocolate-cream-biscuits.jpg"
     },
     {
       "barcode": "8901000000029",
@@ -359,7 +359,7 @@
       "price": 30,
       "weight": 150,
       "category": "Snacks",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40005394_1-pillsbury-vanilla-oven-cake-mix-moist-supreme.jpg"
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40005394_6-pillsbury-vanilla-oven-cake-mix-moist-supreme.jpg"
     },
     {
       "barcode": "8901000000032",
@@ -367,7 +367,7 @@
       "price": 50,
       "weight": 250,
       "category": "Snacks",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40005394_1-pillsbury-vanilla-oven-cake-mix-moist-supreme.jpg"
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40005394_6-pillsbury-vanilla-oven-cake-mix-moist-supreme.jpg"
     },
     {
       "barcode": "8901000000033",
@@ -391,7 +391,7 @@
       "price": 28,
       "weight": 500,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/20005539_1-heritage-toned-milk-special.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/20005539-7_1-heritage-toned-milk-special.jpg"
     },
     {
       "barcode": "8901000000037",
@@ -399,7 +399,7 @@
       "price": 34,
       "weight": 500,
       "category": "Dairy",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40090894_1-amul-taaza.jpg"
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40090894_7-amul-taaza.jpg"
     },
     {
       "barcode": "8901000000038",
@@ -407,7 +407,7 @@
       "price": 34,
       "weight": 500,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40147028_1-mother-dairy-full-cream-milk.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40147028_3-mother-dairy-full-cream-milk.jpg"
     },
     {
       "barcode": "8901000000039",
@@ -415,7 +415,7 @@
       "price": 34,
       "weight": 500,
       "category": "Dairy",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40293603_1-nandini-full-cream-milk-fortified-with-vitamin-a-d.jpg"
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40293603_2-nandini-full-cream-milk-fortified-with-vitamin-a-d.jpg"
     },
     {
       "barcode": "8901000000040",
@@ -423,7 +423,7 @@
       "price": 34,
       "weight": 500,
       "category": "Dairy",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40047739_1-heritage-full-cream-milk.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40047739_4-heritage-full-cream-milk.jpg"
     },
     {
       "barcode": "8901000000041",
@@ -447,7 +447,7 @@
       "price": 20,
       "weight": 250,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1214503_1-pepsi-soft-drink.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1214503-3_1-pepsi-soft-drink.jpg"
     },
     {
       "barcode": "8901000000044",
@@ -455,7 +455,7 @@
       "price": 40,
       "weight": 750,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1214503_1-pepsi-soft-drink.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1214503-3_1-pepsi-soft-drink.jpg"
     },
     {
       "barcode": "8901000000045",
@@ -479,7 +479,7 @@
       "price": 20,
       "weight": 250,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40269291_1-thums-up-cold-drink-soft-drink-strong-spicy-fizzy-cold-drink-taste-the-thunder.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40269291-2_1-thums-up-cold-drink-soft-drink-strong-spicy-fizzy-cold-drink-taste-the-thunder.jpg"
     },
     {
       "barcode": "8901000000048",
@@ -487,7 +487,7 @@
       "price": 40,
       "weight": 750,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40269291_1-thums-up-cold-drink-soft-drink-strong-spicy-fizzy-cold-drink-taste-the-thunder.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40269291-2_1-thums-up-cold-drink-soft-drink-strong-spicy-fizzy-cold-drink-taste-the-thunder.jpg"
     },
     {
       "barcode": "8901000000049",
@@ -495,7 +495,7 @@
       "price": 20,
       "weight": 250,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/412122_1-fanta-soft-drink.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/412122-3_1-fanta-soft-drink.jpg"
     },
     {
       "barcode": "8901000000050",
@@ -503,7 +503,7 @@
       "price": 40,
       "weight": 750,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/412122_1-fanta-soft-drink.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/412122-3_1-fanta-soft-drink.jpg"
     },
     {
       "barcode": "8901000000051",
@@ -511,7 +511,7 @@
       "price": 20,
       "weight": 250,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/101697_1-limca-soft-drink.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/101697-5_1-limca-soft-drink.jpg"
     },
     {
       "barcode": "8901000000052",
@@ -559,7 +559,7 @@
       "price": 14,
       "weight": 70,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40203327_1-sunfeast-yippee-noodles-saucy-masala.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40203327_3-sunfeast-yippee-noodles-saucy-masala.jpg"
     },
     {
       "barcode": "8901000000058",
@@ -567,7 +567,7 @@
       "price": 28,
       "weight": 140,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40203327_1-sunfeast-yippee-noodles-saucy-masala.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40203327_3-sunfeast-yippee-noodles-saucy-masala.jpg"
     },
     {
       "barcode": "8901000000059",
@@ -607,7 +607,7 @@
       "price": 72,
       "weight": 500,
       "category": "Household",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40128635_1-tide-detergent-washing-powder-jasmine-rose-extra-power-tide.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40128635-2_1-tide-detergent-washing-powder-jasmine-rose-extra-power-tide.jpg"
     },
     {
       "barcode": "8901000000066",
@@ -615,7 +615,7 @@
       "price": 72,
       "weight": 500,
       "category": "Household",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/266988_1-rin-rin-matic-detergent-powder.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/266988-4_1-rin-rin-matic-detergent-powder.jpg"
     },
     {
       "barcode": "8901000000067",
@@ -623,7 +623,7 @@
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40077771_1-dove-pinkrosa-beauty-bathing-bar.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40077771-8_3-dove-pinkrosa-beauty-bathing-bar.jpg"
     },
     {
       "barcode": "8901000000068",
@@ -631,7 +631,7 @@
       "price": 60,
       "weight": 125,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40077771_1-dove-pinkrosa-beauty-bathing-bar.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40077771-8_3-dove-pinkrosa-beauty-bathing-bar.jpg"
     },
     {
       "barcode": "8901000000069",
@@ -639,7 +639,7 @@
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40124245_1-lux-jasmine-bloom-soap-bar.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40124245_5-lux-jasmine-bloom-soap-bar.jpg"
     },
     {
       "barcode": "8901000000070",
@@ -647,7 +647,7 @@
       "price": 60,
       "weight": 125,
       "category": "Personal Care",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40101202_1-lux-legends-collection-bathing-soap-bar-iconic-iris.jpg"
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40101202_3-lux-legends-collection-bathing-soap-bar-iconic-iris.jpg"
     },
     {
       "barcode": "8901000000071",
@@ -655,7 +655,7 @@
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/276960_1-lifebuoy-soap-bar-total-10.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/276960_2-lifebuoy-soap-bar-total-10.jpg"
     },
     {
       "barcode": "8901000000072",
@@ -663,7 +663,7 @@
       "price": 60,
       "weight": 125,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/276960_1-lifebuoy-soap-bar-total-10.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/276960_2-lifebuoy-soap-bar-total-10.jpg"
     },
     {
       "barcode": "8901000000073",
@@ -671,7 +671,7 @@
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40181143_1-pears-pure-gentle-bathing-bar.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40181143-5_1-pears-pure-gentle-bathing-bar.jpg"
     },
     {
       "barcode": "8901000000075",
@@ -687,7 +687,7 @@
       "price": 60,
       "weight": 125,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100610250_1-cinthol-deo-bath-soap-999-germ-protection.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100610250_4-cinthol-deo-bath-soap-999-germ-protection.jpg"
     },
     {
       "barcode": "8901000000077",
@@ -695,7 +695,7 @@
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40118733_1-dettol-bathing-bar-soap-cool.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40118733-4_6-dettol-bathing-bar-soap-cool.jpg"
     },
     {
       "barcode": "8901000000078",
@@ -703,7 +703,7 @@
       "price": 60,
       "weight": 125,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1208132_1-dettol-bathing-bar-soap-cool.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1208132-3_8-dettol-bathing-bar-soap-cool.jpg"
     },
     {
       "barcode": "8901000000079",
@@ -711,7 +711,7 @@
       "price": 85,
       "weight": 500,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40080946_1-fortune-sunflower-oil.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40080946_8-fortune-sunflower-oil.jpg"
     },
     {
       "barcode": "8901000000080",
@@ -719,7 +719,7 @@
       "price": 85,
       "weight": 500,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40070789_1-saffola-gold-refined-cooking-oil-blended-rice-bran-sunflower-oil-helps-keeps-heart-healthy.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40070789_5-saffola-gold-refined-cooking-oil-blended-rice-bran-sunflower-oil-helps-keeps-heart-healthy.jpg"
     },
     {
       "barcode": "8901000000081",
@@ -727,7 +727,7 @@
       "price": 85,
       "weight": 500,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/160114_1-sundrop-super-lite-advanced-sunflower-oil.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/160114-4_2-sundrop-super-lite-advanced-sunflower-oil.jpg"
     },
     {
       "barcode": "8901000000083",
@@ -735,7 +735,7 @@
       "price": 30,
       "weight": 100,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/225303_1-everest-powder-turmeric.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/225303-2_1-everest-powder-turmeric.jpg"
     },
     {
       "barcode": "8901000000084",
@@ -743,7 +743,7 @@
       "price": 30,
       "weight": 100,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40117519_1-mdh-turmerichaldi-powder.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40117519_6-mdh-turmerichaldi-powder.jpg"
     },
     {
       "barcode": "8901000000085",
@@ -751,7 +751,7 @@
       "price": 30,
       "weight": 100,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40326183_1-catch-turmeric-powder.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40326183_2-catch-turmeric-powder.jpg"
     },
     {
       "barcode": "8901000000086",
@@ -759,7 +759,7 @@
       "price": 30,
       "weight": 100,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40296364_1-mtr-mtr-turmeric-powder-250g-pouch.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40296364-2_1-mtr-mtr-turmeric-powder-250g-pouch.jpg"
     },
     {
       "barcode": "8901000000087",
@@ -767,7 +767,7 @@
       "price": 42,
       "weight": 100,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100004138_1-everest-powder-kutilal-red-chilli.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100004138-2_4-everest-powder-kutilal-red-chilli.jpg"
     },
     {
       "barcode": "8901000000088",
@@ -775,7 +775,7 @@
       "price": 42,
       "weight": 100,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/269268_1-mdh-powder-kashmiri-chilli.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/269268-4_4-mdh-powder-kashmiri-chilli.jpg"
     },
     {
       "barcode": "8901000000090",
@@ -783,7 +783,7 @@
       "price": 42,
       "weight": 100,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40296363_1-mtr-mtr-chilli-powder-250g-pouch.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40296363-2_1-mtr-mtr-chilli-powder-250g-pouch.jpg"
     },
     {
       "barcode": "8901000000091",
@@ -791,7 +791,7 @@
       "price": 40,
       "weight": 50,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40128824_1-everest-masala-garam.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40128824-3_4-everest-masala-garam.jpg"
     },
     {
       "barcode": "8901000000093",
@@ -807,7 +807,7 @@
       "price": 40,
       "weight": 50,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40001443_1-mtr-masala-garam-masala.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40001443-4_2-mtr-masala-garam-masala.jpg"
     },
     {
       "barcode": "8901000000098",
@@ -815,7 +815,7 @@
       "price": 45,
       "weight": 80,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40114578_1-nestle-kitkat-dessert-delight-tempting-truffle-wafer-coated-with-chocolate.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40114578-2_5-nestle-kitkat-dessert-delight-tempting-truffle-wafer-coated-with-chocolate.jpg"
     },
     {
       "barcode": "8901000000099",
@@ -823,7 +823,7 @@
       "price": 20,
       "weight": 40,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/212684_1-cadbury-chocolate-5-star.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/212684_3-cadbury-chocolate-5-star.jpg"
     },
     {
       "barcode": "8901000000100",
@@ -831,7 +831,7 @@
       "price": 45,
       "weight": 80,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/212684_1-cadbury-chocolate-5-star.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/212684_3-cadbury-chocolate-5-star.jpg"
     },
     {
       "barcode": "8901000000101",
@@ -839,7 +839,7 @@
       "price": 20,
       "weight": 40,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40226125_1-munch-munch-fruit-o-nuts-chocolate-coated-crunchy-wafer-bar-almond-pomegranate.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40226125-3_3-munch-munch-fruit-o-nuts-chocolate-coated-crunchy-wafer-bar-almond-pomegranate.jpg"
     },
     {
       "barcode": "8901000000102",
@@ -847,7 +847,7 @@
       "price": 45,
       "weight": 80,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40226125_1-munch-munch-fruit-o-nuts-chocolate-coated-crunchy-wafer-bar-almond-pomegranate.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40226125-3_3-munch-munch-fruit-o-nuts-chocolate-coated-crunchy-wafer-bar-almond-pomegranate.jpg"
     },
     {
       "barcode": "8901000000103",
@@ -855,7 +855,7 @@
       "price": 20,
       "weight": 40,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291083_1-snickers-chocolate-variety-pack-assorted.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291083-2_1-snickers-chocolate-variety-pack-assorted.jpg"
     },
     {
       "barcode": "8901000000104",
@@ -863,7 +863,7 @@
       "price": 45,
       "weight": 80,
       "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291083_1-snickers-chocolate-variety-pack-assorted.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291083-2_1-snickers-chocolate-variety-pack-assorted.jpg"
     },
     {
       "barcode": "8901000000105",
@@ -871,7 +871,7 @@
       "price": 65,
       "weight": 100,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40000334_1-colgate-active-salt-toothpaste.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40000334-9_3-colgate-active-salt-toothpaste.jpg"
     },
     {
       "barcode": "8901000000106",
@@ -887,7 +887,7 @@
       "price": 65,
       "weight": 100,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40025722_1-pepsodent-germ-protection-clove-salt-toothpaste.jpg?tr=bl-56"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40025722_5-pepsodent-germ-protection-clove-salt-toothpaste.jpg?tr=bl-56"
     },
     {
       "barcode": "8901000000108",
@@ -895,7 +895,7 @@
       "price": 110,
       "weight": 200,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40025722_1-pepsodent-germ-protection-clove-salt-toothpaste.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40025722_5-pepsodent-germ-protection-clove-salt-toothpaste.jpg"
     },
     {
       "barcode": "8901000000109",
@@ -903,7 +903,7 @@
       "price": 65,
       "weight": 100,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40107549_1-sensodyne-deep-clean-sensitive-toothpaste.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40107549-6_2-sensodyne-deep-clean-sensitive-toothpaste.jpg"
     },
     {
       "barcode": "8901000000111",
@@ -911,7 +911,7 @@
       "price": 65,
       "weight": 100,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1223001_1-closeup-closeup-toothpaste-indias-no-1-gel-toothpaste-with-3x-freshness-upto-12-hrs-fresh-breath-white-teeth-pack-2x-150g-close-up-red-hot-mouthwash-250-ml.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1223001-2_1-closeup-closeup-toothpaste-indias-no-1-gel-toothpaste-with-3x-freshness-upto-12-hrs-fresh-breath-white-teeth-pack-2x-150g-close-up-red-hot-mouthwash-250-ml.jpg"
     },
     {
       "barcode": "8901000000112",
@@ -927,7 +927,7 @@
       "price": 150,
       "weight": 250,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/263642_1-tata-tea-gold-tea.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/263642_22-tata-tea-gold-tea.jpg"
     },
     {
       "barcode": "8901000000114",
@@ -935,7 +935,7 @@
       "price": 280,
       "weight": 500,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/263642_1-tata-tea-gold-tea.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/263642_22-tata-tea-gold-tea.jpg"
     },
     {
       "barcode": "8901000000115",
@@ -943,7 +943,7 @@
       "price": 150,
       "weight": 250,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40281786_1-brooke-bond-red-label-maa-care-flavoured-tea-80-less-caffeine-for-expectant-lactating-mothers.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40281786-7_2-brooke-bond-red-label-maa-care-flavoured-tea-80-less-caffeine-for-expectant-lactating-mothers.jpg"
     },
     {
       "barcode": "8901000000116",
@@ -951,7 +951,7 @@
       "price": 280,
       "weight": 500,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40281786_1-brooke-bond-red-label-maa-care-flavoured-tea-80-less-caffeine-for-expectant-lactating-mothers.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40281786-7_2-brooke-bond-red-label-maa-care-flavoured-tea-80-less-caffeine-for-expectant-lactating-mothers.jpg"
     },
     {
       "barcode": "8901000000117",
@@ -959,7 +959,7 @@
       "price": 150,
       "weight": 250,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100440682_1-taj-mahal-rich-masala-tea.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100440682_7-taj-mahal-rich-masala-tea.jpg"
     },
     {
       "barcode": "8901000000118",
@@ -967,7 +967,7 @@
       "price": 280,
       "weight": 500,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100440682_1-taj-mahal-rich-masala-tea.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100440682_7-taj-mahal-rich-masala-tea.jpg"
     },
     {
       "barcode": "8901000000119",
@@ -983,7 +983,7 @@
       "price": 280,
       "weight": 500,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40125795_1-waghbakri-leaf-tea-spiced.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40125795_8-waghbakri-leaf-tea-spiced.jpg"
     },
     {
       "barcode": "8901000000121",
@@ -991,7 +991,7 @@
       "price": 160,
       "weight": 50,
       "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1215115_1-nescafe-classic-100-pure-instant-coffee.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1215115_5-nescafe-classic-100-pure-instant-coffee.jpg"
     },
     {
       "barcode": "8901000000123",
@@ -1007,7 +1007,7 @@
       "price": 165,
       "weight": 180,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40068862_1-clinic-plus-strong-extra-thick-shampoo.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40068862_8-clinic-plus-strong-extra-thick-shampoo.jpg"
     },
     {
       "barcode": "8901000000125",
@@ -1015,7 +1015,7 @@
       "price": 320,
       "weight": 340,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40106852_1-clinic-plus-shampoo-ayurveda-care-triphala.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40106852-3_1-clinic-plus-shampoo-ayurveda-care-triphala.jpg"
     },
     {
       "barcode": "8901000000127",
@@ -1023,7 +1023,7 @@
       "price": 320,
       "weight": 340,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/316246_1-sunsilk-shampoo-perfect-straight.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/316246-5_2-sunsilk-shampoo-perfect-straight.jpg"
     },
     {
       "barcode": "8901000000128",
@@ -1031,7 +1031,7 @@
       "price": 165,
       "weight": 180,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/266681_1-dove-dandruff-care-shampoo.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/266681_8-dove-dandruff-care-shampoo.jpg"
     },
     {
       "barcode": "8901000000129",
@@ -1039,7 +1039,7 @@
       "price": 320,
       "weight": 340,
       "category": "Personal Care",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40025718_1-dove-oxygen-moisture-shampoo.jpg"
+      "imageUrl": "https://www.bbassets.com/media/uploads/p/xl/40025718_5-dove-oxygen-moisture-shampoo.jpg"
     },
     {
       "barcode": "8901000000130",
@@ -1047,7 +1047,7 @@
       "price": 165,
       "weight": 180,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40195278_1-tresemme-thick-full-shampoo.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40195278-3_3-tresemme-thick-full-shampoo.jpg"
     },
     {
       "barcode": "8901000000131",
@@ -1079,7 +1079,7 @@
       "price": 165,
       "weight": 180,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/307918_1-pantene-shampoo-hair-fall-control.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/307918-2_8-pantene-shampoo-hair-fall-control.jpg"
     },
     {
       "barcode": "8901000000135",
@@ -1087,7 +1087,7 @@
       "price": 320,
       "weight": 340,
       "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/307918_1-pantene-shampoo-hair-fall-control.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/307918-2_8-pantene-shampoo-hair-fall-control.jpg"
     },
     {
       "barcode": "8901000000136",
@@ -1095,7 +1095,7 @@
       "price": 60,
       "weight": 1000,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/161826_1-aashirvaad-atta-whole-wheat.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/161826-2_5-aashirvaad-atta-whole-wheat.jpg"
     },
     {
       "barcode": "8901000000137",
@@ -1119,7 +1119,7 @@
       "price": 60,
       "weight": 1000,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261329_1-natureland-organics-whole-wheat-flour-chakki-fresh-atta-makes-roti-chapati-other-dishes-vegan.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261329-2_1-natureland-organics-whole-wheat-flour-chakki-fresh-atta-makes-roti-chapati-other-dishes-vegan.jpg"
     },
     {
       "barcode": "8901000000140",
@@ -1127,7 +1127,7 @@
       "price": 135,
       "weight": 1000,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40109156_1-india-gate-basmati-rice-mini-mogra-broken.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40109156-4_2-india-gate-basmati-rice-mini-mogra-broken.jpg"
     },
     {
       "barcode": "8901000000141",
@@ -1135,7 +1135,7 @@
       "price": 135,
       "weight": 1000,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40053313_1-daawat-basmati-rice-daawat-tibar.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40053313-3_4-daawat-basmati-rice-daawat-tibar.jpg"
     },
     {
       "barcode": "8901000000142",
@@ -1143,7 +1143,7 @@
       "price": 135,
       "weight": 1000,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/30004198_1-kohinoor-basmati-rice-dubar.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/30004198-4_1-kohinoor-basmati-rice-dubar.jpg"
     },
     {
       "barcode": "8901000000143",
@@ -1167,7 +1167,7 @@
       "price": 85,
       "weight": 500,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/60000615_1-bb-royal-toor-dal-unpolished.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/60000615_3-bb-royal-toor-dal-unpolished.jpg"
     },
     {
       "barcode": "8901000000146",
@@ -1175,7 +1175,7 @@
       "price": 85,
       "weight": 500,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291157_1-pulsesman-toor-dal-arhar-dal.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291157-4_1-pulsesman-toor-dal-arhar-dal.jpg"
     },
     {
       "barcode": "8901000000147",
@@ -1183,7 +1183,7 @@
       "price": 65,
       "weight": 500,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40156311_1-tata-sampann-organic-moong-dal.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40156311-3_10-tata-sampann-organic-moong-dal.jpg"
     },
     {
       "barcode": "8901000000148",
@@ -1191,7 +1191,7 @@
       "price": 65,
       "weight": 500,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40046742_1-bb-royal-moong-dal-unploish.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40046742-7_1-bb-royal-moong-dal-unploish.jpg"
     },
     {
       "barcode": "8901000000149",
@@ -1199,7 +1199,7 @@
       "price": 65,
       "weight": 500,
       "category": "Grocery",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40000035_1-pro-nature-organic-moong-yellow.jpg"
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40000035-4_2-pro-nature-organic-moong-yellow.jpg"
     }
   ],
   "invoices": [
