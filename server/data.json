@@ -99,7 +99,7 @@
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/20000006-2_3-britannia-bread-brown.jpg"
     },
     {
-      "name": "Eggs Regular 6 pcs",
+      "name": "Eggs Regular",
       "price": 42,
       "weight": 300,
       "category": "Dairy",
@@ -107,119 +107,63 @@
     },
     {
       "barcode": "8901000000000",
-      "name": "Lays Salted 52g",
+      "name": "Lays Salted",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/294273-4_14-lays-wafer-style-classic-salted.jpg"
     },
     {
-      "barcode": "8901000000001",
-      "name": "Lays Salted 90g",
-      "price": 40,
-      "weight": 90,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/298588-2_5-lays-potato-chips-classic-salted.jpg"
-    },
-    {
       "barcode": "8901000000002",
-      "name": "Kurkure Salted 52g",
+      "name": "Kurkure Salted",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40049037_5-kurkure-namkeen-salted-peanuts.jpg"
     },
     {
-      "barcode": "8901000000003",
-      "name": "Kurkure Salted 90g",
-      "price": 40,
-      "weight": 90,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40049037_5-kurkure-namkeen-salted-peanuts.jpg"
-    },
-    {
       "barcode": "8901000000004",
-      "name": "Bingo Salted 52g",
+      "name": "Bingo Salted",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
       "imageUrl": "https://m.media-amazon.com/images/I/91kkjqEDfyL._SL1500_.jpg"
     },
     {
-      "barcode": "8901000000005",
-      "name": "Bingo Salted 90g",
-      "price": 40,
-      "weight": 90,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1230241_1-bingo-yumitos-potato-chips-salted.jpg"
-    },
-    {
       "barcode": "8901000000006",
-      "name": "Doritos Salted 52g",
+      "name": "Doritos Salted",
       "price": 20,
       "weight": 52,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40058979-5_6-doritos-nacho-cheese.jpg"
-    },
-    {
-      "barcode": "8901000000007",
-      "name": "Doritos Salted 90g",
-      "price": 40,
-      "weight": 90,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40058979-5_6-doritos-nacho-cheese.jpg"
     },
     {
       "barcode": "8901000000008",
-      "name": "Pringles Salted 52g",
+      "name": "Pringles Salted",
       "price": 20,
       "weight": 52,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261729_1-pringles-potato-crisps-classic-salted-on-the-go-crunchy-snack.jpg"
-    },
-    {
-      "barcode": "8901000000009",
-      "name": "Pringles Salted 90g",
-      "price": 40,
-      "weight": 90,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261729_1-pringles-potato-crisps-classic-salted-on-the-go-crunchy-snack.jpg"
     },
     {
       "barcode": "8901000000010",
-      "name": "Haldiram Salted 52g",
+      "name": "Haldiram Salted",
       "price": 20,
       "weight": 52,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1232159_1-haldiram-salted-peanut.jpg"
-    },
-    {
-      "barcode": "8901000000011",
-      "name": "Haldiram Salted 90g",
-      "price": 40,
-      "weight": 90,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1232159_1-haldiram-salted-peanut.jpg"
     },
     {
       "barcode": "8901000000012",
-      "name": "Too Yumm Salted 52g",
+      "name": "Too Yumm Salted",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40302841_1-too-yumm-namkeen-salted-peanuts.jpg"
     },
     {
-      "barcode": "8901000000013",
-      "name": "Too Yumm Salted 90g",
-      "price": 40,
-      "weight": 90,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40302841_1-too-yumm-namkeen-salted-peanuts.jpg"
-    },
-    {
       "barcode": "8901000000014",
-      "name": "Lays Cream Onion 52g",
+      "name": "Lays Cream Onion",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
@@ -227,7 +171,7 @@
     },
     {
       "barcode": "8901000000015",
-      "name": "Kurkure Cream Onion 52g",
+      "name": "Kurkure Cream Onion",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
@@ -235,7 +179,7 @@
     },
     {
       "barcode": "8901000000016",
-      "name": "Bingo Cream Onion 52g",
+      "name": "Bingo Cream Onion",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
@@ -243,7 +187,7 @@
     },
     {
       "barcode": "8901000000017",
-      "name": "Doritos Cream Onion 52g",
+      "name": "Doritos Cream Onion",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
@@ -251,7 +195,7 @@
     },
     {
       "barcode": "8901000000018",
-      "name": "Pringles Cream Onion 52g",
+      "name": "Pringles Cream Onion",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
@@ -259,7 +203,7 @@
     },
     {
       "barcode": "8901000000019",
-      "name": "Haldiram Cream Onion 52g",
+      "name": "Haldiram Cream Onion",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
@@ -267,7 +211,7 @@
     },
     {
       "barcode": "8901000000020",
-      "name": "Too Yumm Cream Onion 52g",
+      "name": "Too Yumm Cream Onion",
       "price": 20,
       "weight": 52,
       "category": "Snacks",
@@ -275,103 +219,55 @@
     },
     {
       "barcode": "8901000000021",
-      "name": "Parle-G Biscuits 150g",
+      "name": "Parle-G Biscuits",
       "price": 30,
       "weight": 150,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/104065_1-parle-parle-g-biscuits.jpg"
-    },
-    {
-      "barcode": "8901000000022",
-      "name": "Parle-G Biscuits 250g",
-      "price": 50,
-      "weight": 250,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/104065_1-parle-parle-g-biscuits.jpg"
     },
     {
       "barcode": "8901000000023",
-      "name": "Britannia Good Day Biscuits 150g",
+      "name": "Britannia Good Day Biscuits",
       "price": 30,
       "weight": 150,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/414935_1-britannia-good-day-cashew-cookies.jpg"
-    },
-    {
-      "barcode": "8901000000024",
-      "name": "Britannia Good Day Biscuits 250g",
-      "price": 50,
-      "weight": 250,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/414935_1-britannia-good-day-cashew-cookies.jpg"
     },
     {
       "barcode": "8901000000025",
-      "name": "Oreo Biscuits 150g",
+      "name": "Oreo Biscuits",
       "price": 30,
       "weight": 150,
-      "category": "Snacks",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/l/20005972_3-oreo-oreo-original-sandwich-biscuits.jpg"
-    },
-    {
-      "barcode": "8901000000026",
-      "name": "Oreo Biscuits 250g",
-      "price": 50,
-      "weight": 250,
       "category": "Snacks",
       "imageUrl": "https://www.bbassets.com/media/uploads/p/l/20005972_3-oreo-oreo-original-sandwich-biscuits.jpg"
     },
     {
       "barcode": "8901000000027",
-      "name": "Sunfeast Dark Fantasy Biscuits 150g",
+      "name": "Sunfeast Dark Fantasy Biscuits",
       "price": 30,
       "weight": 150,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/30008604_2-sunfeast-dark-fantasy-bourbon-chocolate-cream-biscuits.jpg"
-    },
-    {
-      "barcode": "8901000000028",
-      "name": "Sunfeast Dark Fantasy Biscuits 250g",
-      "price": 50,
-      "weight": 250,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/30008604_2-sunfeast-dark-fantasy-bourbon-chocolate-cream-biscuits.jpg"
     },
     {
       "barcode": "8901000000029",
-      "name": "Unibic Biscuits 150g",
+      "name": "Unibic Biscuits",
       "price": 30,
       "weight": 150,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1222938_1-unibic-qubz-wafer-cubes-belgian-chocolate-sandwich-biscuit.jpg"
-    },
-    {
-      "barcode": "8901000000030",
-      "name": "Unibic Biscuits 250g",
-      "price": 50,
-      "weight": 250,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1222938_1-unibic-qubz-wafer-cubes-belgian-chocolate-sandwich-biscuit.jpg"
     },
     {
       "barcode": "8901000000031",
-      "name": "Pillsbury Biscuits 150g",
+      "name": "Pillsbury Biscuits",
       "price": 30,
       "weight": 150,
       "category": "Snacks",
       "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40005394_6-pillsbury-vanilla-oven-cake-mix-moist-supreme.jpg"
     },
     {
-      "barcode": "8901000000032",
-      "name": "Pillsbury Biscuits 250g",
-      "price": 50,
-      "weight": 250,
-      "category": "Snacks",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40005394_6-pillsbury-vanilla-oven-cake-mix-moist-supreme.jpg"
-    },
-    {
       "barcode": "8901000000033",
-      "name": "Amul Toned Milk 500ml",
+      "name": "Amul Toned Milk",
       "price": 28,
       "weight": 500,
       "category": "Dairy",
@@ -379,7 +275,7 @@
     },
     {
       "barcode": "8901000000035",
-      "name": "Nandini Toned Milk 500ml",
+      "name": "Nandini Toned Milk",
       "price": 28,
       "weight": 500,
       "category": "Dairy",
@@ -387,7 +283,7 @@
     },
     {
       "barcode": "8901000000036",
-      "name": "Heritage Toned Milk 500ml",
+      "name": "Heritage Toned Milk",
       "price": 28,
       "weight": 500,
       "category": "Dairy",
@@ -395,7 +291,7 @@
     },
     {
       "barcode": "8901000000037",
-      "name": "Amul Full Cream Milk 500ml",
+      "name": "Amul Full Cream Milk",
       "price": 34,
       "weight": 500,
       "category": "Dairy",
@@ -403,7 +299,7 @@
     },
     {
       "barcode": "8901000000038",
-      "name": "Mother Dairy Full Cream Milk 500ml",
+      "name": "Mother Dairy Full Cream Milk",
       "price": 34,
       "weight": 500,
       "category": "Dairy",
@@ -411,7 +307,7 @@
     },
     {
       "barcode": "8901000000039",
-      "name": "Nandini Full Cream Milk 500ml",
+      "name": "Nandini Full Cream Milk",
       "price": 34,
       "weight": 500,
       "category": "Dairy",
@@ -419,7 +315,7 @@
     },
     {
       "barcode": "8901000000040",
-      "name": "Heritage Full Cream Milk 500ml",
+      "name": "Heritage Full Cream Milk",
       "price": 34,
       "weight": 500,
       "category": "Dairy",
@@ -427,167 +323,87 @@
     },
     {
       "barcode": "8901000000041",
-      "name": "Coca Cola Cold Drink 250ml",
+      "name": "Coca Cola Cold Drink",
       "price": 20,
       "weight": 250,
-      "category": "Beverages",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40269290_1-coca-cola-zero-sugar-no-calories-soft-drink-carbonated-water.jpg"
-    },
-    {
-      "barcode": "8901000000042",
-      "name": "Coca Cola Cold Drink 750ml",
-      "price": 40,
-      "weight": 750,
       "category": "Beverages",
       "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40269290_1-coca-cola-zero-sugar-no-calories-soft-drink-carbonated-water.jpg"
     },
     {
       "barcode": "8901000000043",
-      "name": "Pepsi Cold Drink 250ml",
+      "name": "Pepsi Cold Drink",
       "price": 20,
       "weight": 250,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1214503-3_1-pepsi-soft-drink.jpg"
-    },
-    {
-      "barcode": "8901000000044",
-      "name": "Pepsi Cold Drink 750ml",
-      "price": 40,
-      "weight": 750,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1214503-3_1-pepsi-soft-drink.jpg"
     },
     {
       "barcode": "8901000000045",
-      "name": "Sprite Cold Drink 250ml",
+      "name": "Sprite Cold Drink",
       "price": 20,
       "weight": 250,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261442_1-sprite-sprite-soft-drink-refreshing.jpg"
-    },
-    {
-      "barcode": "8901000000046",
-      "name": "Sprite Cold Drink 750ml",
-      "price": 40,
-      "weight": 750,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40261442_1-sprite-sprite-soft-drink-refreshing.jpg"
     },
     {
       "barcode": "8901000000047",
-      "name": "Thums Up Cold Drink 250ml",
+      "name": "Thums Up Cold Drink",
       "price": 20,
       "weight": 250,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40269291_1-thums-up-cold-drink-soft-drink-strong-spicy-fizzy-cold-drink-taste-the-thunder.jpg"
-    },
-    {
-      "barcode": "8901000000048",
-      "name": "Thums Up Cold Drink 750ml",
-      "price": 40,
-      "weight": 750,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40269291_1-thums-up-cold-drink-soft-drink-strong-spicy-fizzy-cold-drink-taste-the-thunder.jpg"
     },
     {
       "barcode": "8901000000049",
-      "name": "Fanta Cold Drink 250ml",
+      "name": "Fanta Cold Drink",
       "price": 20,
       "weight": 250,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/412122-3_1-fanta-soft-drink.jpg"
     },
     {
-      "barcode": "8901000000050",
-      "name": "Fanta Cold Drink 750ml",
-      "price": 40,
-      "weight": 750,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/412122-3_1-fanta-soft-drink.jpg"
-    },
-    {
       "barcode": "8901000000051",
-      "name": "Limca Cold Drink 250ml",
+      "name": "Limca Cold Drink",
       "price": 20,
       "weight": 250,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/101697_1-limca-soft-drink.jpg"
     },
     {
-      "barcode": "8901000000052",
-      "name": "Limca Cold Drink 750ml",
-      "price": 40,
-      "weight": 750,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1223254_1-limca-soft-drink-lime-lemoni.jpg"
-    },
-    {
       "barcode": "8901000000053",
-      "name": "7Up Cold Drink 250ml",
+      "name": "7Up Cold Drink",
       "price": 20,
       "weight": 250,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40269289_1-coca-cola-original-cold-drink-carbonated-water-delicious-refreshing.jpg"
     },
     {
-      "barcode": "8901000000054",
-      "name": "7Up Cold Drink 750ml",
-      "price": 40,
-      "weight": 750,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40269291_1-thums-up-cold-drink-soft-drink-strong-spicy-fizzy-cold-drink-taste-the-thunder.jpg"
-    },
-    {
       "barcode": "8901000000055",
-      "name": "Maggi Instant Noodles 70g",
+      "name": "Maggi Instant Noodles",
       "price": 14,
       "weight": 70,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/groot/images/232022-197480c1-3rd-module-01.jpg"
     },
     {
-      "barcode": "8901000000056",
-      "name": "Maggi Instant Noodles 140g",
-      "price": 28,
-      "weight": 140,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40326917_1-maggi-happy-bowl-yummy-masala-instant-noodles.jpg"
-    },
-    {
       "barcode": "8901000000057",
-      "name": "Yippee Instant Noodles 70g",
+      "name": "Yippee Instant Noodles",
       "price": 14,
       "weight": 70,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40203327_3-sunfeast-yippee-noodles-saucy-masala.jpg"
-    },
-    {
-      "barcode": "8901000000058",
-      "name": "Yippee Instant Noodles 140g",
-      "price": 28,
-      "weight": 140,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40203327_3-sunfeast-yippee-noodles-saucy-masala.jpg"
     },
     {
       "barcode": "8901000000059",
-      "name": "Top Ramen Instant Noodles 70g",
+      "name": "Top Ramen Instant Noodles",
       "price": 14,
       "weight": 70,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40289546_1-samyang-buldak-instant-noodles-hot-chicken-flavour-ramen.jpg?tr=w-640"
     },
     {
-      "barcode": "8901000000060",
-      "name": "Top Ramen Instant Noodles 140g",
-      "price": 28,
-      "weight": 140,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40289546_1-samyang-buldak-instant-noodles-hot-chicken-flavour-ramen.jpg?tr=w-640"
-    },
-    {
       "barcode": "8901000000063",
-      "name": "Surf Excel Washing Powder 500ml",
+      "name": "Surf Excel Washing Powder",
       "price": 72,
       "weight": 500,
       "category": "Household",
@@ -595,7 +411,7 @@
     },
     {
       "barcode": "8901000000064",
-      "name": "Ariel Washing Powder 500ml",
+      "name": "Ariel Washing Powder",
       "price": 72,
       "weight": 500,
       "category": "Household",
@@ -603,7 +419,7 @@
     },
     {
       "barcode": "8901000000065",
-      "name": "Tide Washing Powder 500ml",
+      "name": "Tide Washing Powder",
       "price": 72,
       "weight": 500,
       "category": "Household",
@@ -611,7 +427,7 @@
     },
     {
       "barcode": "8901000000066",
-      "name": "Rin Washing Powder 500ml",
+      "name": "Rin Washing Powder",
       "price": 72,
       "weight": 500,
       "category": "Household",
@@ -619,55 +435,31 @@
     },
     {
       "barcode": "8901000000067",
-      "name": "Dove Bathing Bar 75g",
+      "name": "Dove Bathing Bar",
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40077771-8_3-dove-pinkrosa-beauty-bathing-bar.jpg"
     },
     {
-      "barcode": "8901000000068",
-      "name": "Dove Bathing Bar 125g",
-      "price": 60,
-      "weight": 125,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40077771-8_3-dove-pinkrosa-beauty-bathing-bar.jpg"
-    },
-    {
       "barcode": "8901000000069",
-      "name": "Lux Bathing Bar 75g",
+      "name": "Lux Bathing Bar",
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40124245_5-lux-jasmine-bloom-soap-bar.jpg"
     },
     {
-      "barcode": "8901000000070",
-      "name": "Lux Bathing Bar 125g",
-      "price": 60,
-      "weight": 125,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/l/40101202_3-lux-legends-collection-bathing-soap-bar-iconic-iris.jpg"
-    },
-    {
       "barcode": "8901000000071",
-      "name": "Lifebuoy Bathing Bar 75g",
+      "name": "Lifebuoy Bathing Bar",
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/276960_2-lifebuoy-soap-bar-total-10.jpg"
     },
     {
-      "barcode": "8901000000072",
-      "name": "Lifebuoy Bathing Bar 125g",
-      "price": 60,
-      "weight": 125,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/276960_2-lifebuoy-soap-bar-total-10.jpg"
-    },
-    {
       "barcode": "8901000000073",
-      "name": "Pears Bathing Bar 75g",
+      "name": "Pears Bathing Bar",
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
@@ -675,39 +467,23 @@
     },
     {
       "barcode": "8901000000075",
-      "name": "Cinthol Bathing Bar 75g",
+      "name": "Cinthol Bathing Bar",
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
       "imageUrl": "https://m.media-amazon.com/images/I/61B1iT6kVtL._SL1500_.jpg"
     },
     {
-      "barcode": "8901000000076",
-      "name": "Cinthol Bathing Bar 125g",
-      "price": 60,
-      "weight": 125,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100610250_4-cinthol-deo-bath-soap-999-germ-protection.jpg"
-    },
-    {
       "barcode": "8901000000077",
-      "name": "Dettol Bathing Bar 75g",
+      "name": "Dettol Bathing Bar",
       "price": 36,
       "weight": 75,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40118733-4_6-dettol-bathing-bar-soap-cool.jpg"
     },
     {
-      "barcode": "8901000000078",
-      "name": "Dettol Bathing Bar 125g",
-      "price": 60,
-      "weight": 125,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1208132-3_8-dettol-bathing-bar-soap-cool.jpg"
-    },
-    {
       "barcode": "8901000000079",
-      "name": "Fortune Sunflower Oil 500ml",
+      "name": "Fortune Sunflower Oil",
       "price": 85,
       "weight": 500,
       "category": "Grocery",
@@ -715,7 +491,7 @@
     },
     {
       "barcode": "8901000000080",
-      "name": "Saffola Sunflower Oil 500ml",
+      "name": "Saffola Sunflower Oil",
       "price": 85,
       "weight": 500,
       "category": "Grocery",
@@ -723,7 +499,7 @@
     },
     {
       "barcode": "8901000000081",
-      "name": "Sundrop Sunflower Oil 500ml",
+      "name": "Sundrop Sunflower Oil",
       "price": 85,
       "weight": 500,
       "category": "Grocery",
@@ -731,7 +507,7 @@
     },
     {
       "barcode": "8901000000083",
-      "name": "Everest Turmeric Powder 100g",
+      "name": "Everest Turmeric Powder",
       "price": 30,
       "weight": 100,
       "category": "Grocery",
@@ -739,7 +515,7 @@
     },
     {
       "barcode": "8901000000084",
-      "name": "MDH Turmeric Powder 100g",
+      "name": "MDH Turmeric Powder",
       "price": 30,
       "weight": 100,
       "category": "Grocery",
@@ -747,7 +523,7 @@
     },
     {
       "barcode": "8901000000085",
-      "name": "Catch Turmeric Powder 100g",
+      "name": "Catch Turmeric Powder",
       "price": 30,
       "weight": 100,
       "category": "Grocery",
@@ -755,7 +531,7 @@
     },
     {
       "barcode": "8901000000086",
-      "name": "MTR Turmeric Powder 100g",
+      "name": "MTR Turmeric Powder",
       "price": 30,
       "weight": 100,
       "category": "Grocery",
@@ -763,7 +539,7 @@
     },
     {
       "barcode": "8901000000087",
-      "name": "Everest Red Chilli Powder 100g",
+      "name": "Everest Red Chilli Powder",
       "price": 42,
       "weight": 100,
       "category": "Grocery",
@@ -771,7 +547,7 @@
     },
     {
       "barcode": "8901000000088",
-      "name": "MDH Red Chilli Powder 100g",
+      "name": "MDH Red Chilli Powder",
       "price": 42,
       "weight": 100,
       "category": "Grocery",
@@ -779,7 +555,7 @@
     },
     {
       "barcode": "8901000000090",
-      "name": "MTR Red Chilli Powder 100g",
+      "name": "MTR Red Chilli Powder",
       "price": 42,
       "weight": 100,
       "category": "Grocery",
@@ -787,7 +563,7 @@
     },
     {
       "barcode": "8901000000091",
-      "name": "Everest Garam Masala 50g",
+      "name": "Everest Garam Masala",
       "price": 40,
       "weight": 50,
       "category": "Grocery",
@@ -795,7 +571,7 @@
     },
     {
       "barcode": "8901000000093",
-      "name": "Catch Garam Masala 50g",
+      "name": "Catch Garam Masala",
       "price": 40,
       "weight": 50,
       "category": "Grocery",
@@ -803,7 +579,7 @@
     },
     {
       "barcode": "8901000000094",
-      "name": "MTR Garam Masala 50g",
+      "name": "MTR Garam Masala",
       "price": 40,
       "weight": 50,
       "category": "Grocery",
@@ -811,7 +587,7 @@
     },
     {
       "barcode": "8901000000098",
-      "name": "KitKat Chocolate 80g",
+      "name": "KitKat Chocolate",
       "price": 45,
       "weight": 80,
       "category": "Snacks",
@@ -819,87 +595,47 @@
     },
     {
       "barcode": "8901000000099",
-      "name": "5 Star Chocolate 40g",
+      "name": "5 Star Chocolate",
       "price": 20,
       "weight": 40,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/212684_3-cadbury-chocolate-5-star.jpg"
-    },
-    {
-      "barcode": "8901000000100",
-      "name": "5 Star Chocolate 80g",
-      "price": 45,
-      "weight": 80,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/212684_3-cadbury-chocolate-5-star.jpg"
     },
     {
       "barcode": "8901000000101",
-      "name": "Munch Chocolate 40g",
+      "name": "Munch Chocolate",
       "price": 20,
       "weight": 40,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40226125-3_3-munch-munch-fruit-o-nuts-chocolate-coated-crunchy-wafer-bar-almond-pomegranate.jpg"
-    },
-    {
-      "barcode": "8901000000102",
-      "name": "Munch Chocolate 80g",
-      "price": 45,
-      "weight": 80,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40226125-3_3-munch-munch-fruit-o-nuts-chocolate-coated-crunchy-wafer-bar-almond-pomegranate.jpg"
     },
     {
       "barcode": "8901000000103",
-      "name": "Snickers Chocolate 40g",
+      "name": "Snickers Chocolate",
       "price": 20,
       "weight": 40,
       "category": "Snacks",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291083_1-snickers-chocolate-variety-pack-assorted.jpg"
     },
     {
-      "barcode": "8901000000104",
-      "name": "Snickers Chocolate 80g",
-      "price": 45,
-      "weight": 80,
-      "category": "Snacks",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40291083_1-snickers-chocolate-variety-pack-assorted.jpg"
-    },
-    {
       "barcode": "8901000000105",
-      "name": "Colgate Toothpaste 100g",
+      "name": "Colgate Toothpaste",
       "price": 65,
       "weight": 100,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40000334-9_3-colgate-active-salt-toothpaste.jpg"
     },
     {
-      "barcode": "8901000000106",
-      "name": "Colgate Toothpaste 200g",
-      "price": 110,
-      "weight": 200,
-      "category": "Personal Care",
-      "imageUrl": "https://m.media-amazon.com/images/I/61g5KP7yqKL._SL1500_.jpg"
-    },
-    {
       "barcode": "8901000000107",
-      "name": "Pepsodent Toothpaste 100g",
+      "name": "Pepsodent Toothpaste",
       "price": 65,
       "weight": 100,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40025722_5-pepsodent-germ-protection-clove-salt-toothpaste.jpg?tr=bl-56"
     },
     {
-      "barcode": "8901000000108",
-      "name": "Pepsodent Toothpaste 200g",
-      "price": 110,
-      "weight": 200,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40025722_5-pepsodent-germ-protection-clove-salt-toothpaste.jpg?tr=w-1080,q=80"
-    },
-    {
       "barcode": "8901000000109",
-      "name": "Sensodyne Toothpaste 100g",
+      "name": "Sensodyne Toothpaste",
       "price": 65,
       "weight": 100,
       "category": "Personal Care",
@@ -907,87 +643,47 @@
     },
     {
       "barcode": "8901000000111",
-      "name": "Close Up Toothpaste 100g",
+      "name": "Close Up Toothpaste",
       "price": 65,
       "weight": 100,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/1223001_1-closeup-closeup-toothpaste-indias-no-1-gel-toothpaste-with-3x-freshness-upto-12-hrs-fresh-breath-white-teeth-pack-2x-150g-close-up-red-hot-mouthwash-250-ml.jpg"
     },
     {
-      "barcode": "8901000000112",
-      "name": "Close Up Toothpaste 200g",
-      "price": 110,
-      "weight": 200,
-      "category": "Personal Care",
-      "imageUrl": "https://m.media-amazon.com/images/I/51BJOILmAyL._SL1000_.jpg"
-    },
-    {
       "barcode": "8901000000113",
-      "name": "Tata Tea Gold Tea Powder 250g",
+      "name": "Tata Tea Gold Tea Powder",
       "price": 150,
       "weight": 250,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/263642_22-tata-tea-gold-tea.jpg"
-    },
-    {
-      "barcode": "8901000000114",
-      "name": "Tata Tea Gold Tea Powder 500g",
-      "price": 280,
-      "weight": 500,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/263642_22-tata-tea-gold-tea.jpg"
     },
     {
       "barcode": "8901000000115",
-      "name": "Brooke Bond Red Label Tea Powder 250g",
+      "name": "Brooke Bond Red Label Tea Powder",
       "price": 150,
       "weight": 250,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40281786-7_2-brooke-bond-red-label-maa-care-flavoured-tea-80-less-caffeine-for-expectant-lactating-mothers.jpg"
-    },
-    {
-      "barcode": "8901000000116",
-      "name": "Brooke Bond Red Label Tea Powder 500g",
-      "price": 280,
-      "weight": 500,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40281786-7_2-brooke-bond-red-label-maa-care-flavoured-tea-80-less-caffeine-for-expectant-lactating-mothers.jpg"
     },
     {
       "barcode": "8901000000117",
-      "name": "Taj Mahal Tea Powder 250g",
+      "name": "Taj Mahal Tea Powder",
       "price": 150,
       "weight": 250,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100440682_7-taj-mahal-rich-masala-tea.jpg"
     },
     {
-      "barcode": "8901000000118",
-      "name": "Taj Mahal Tea Powder 500g",
-      "price": 280,
-      "weight": 500,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/100440682_7-taj-mahal-rich-masala-tea.jpg"
-    },
-    {
       "barcode": "8901000000119",
-      "name": "Wagh Bakri Tea Powder 250g",
+      "name": "Wagh Bakri Tea Powder",
       "price": 150,
       "weight": 250,
       "category": "Beverages",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40195759_1-wagh-bakri-peach-ice-tea.jpg?tr=w-640"
     },
     {
-      "barcode": "8901000000120",
-      "name": "Wagh Bakri Tea Powder 500g",
-      "price": 280,
-      "weight": 500,
-      "category": "Beverages",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40125795_8-waghbakri-leaf-tea-spiced.jpg"
-    },
-    {
       "barcode": "8901000000121",
-      "name": "Nescafe Classic Instant Coffee 50g",
+      "name": "Nescafe Classic Instant Coffee",
       "price": 160,
       "weight": 50,
       "category": "Beverages",
@@ -995,7 +691,7 @@
     },
     {
       "barcode": "8901000000123",
-      "name": "Davidoff Instant Coffee 50g",
+      "name": "Davidoff Instant Coffee",
       "price": 160,
       "weight": 50,
       "category": "Beverages",
@@ -1003,23 +699,15 @@
     },
     {
       "barcode": "8901000000124",
-      "name": "Clinic Plus Shampoo 180ml",
+      "name": "Clinic Plus Shampoo",
       "price": 165,
       "weight": 180,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40068862_8-clinic-plus-strong-extra-thick-shampoo.jpg?tr=w-1080,q=80"
     },
     {
-      "barcode": "8901000000125",
-      "name": "Clinic Plus Shampoo 340ml",
-      "price": 320,
-      "weight": 340,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40106852_1-clinic-plus-shampoo-ayurveda-care-triphala.jpg"
-    },
-    {
       "barcode": "8901000000127",
-      "name": "Sunsilk Shampoo 340ml",
+      "name": "Sunsilk Shampoo",
       "price": 320,
       "weight": 340,
       "category": "Personal Care",
@@ -1027,71 +715,39 @@
     },
     {
       "barcode": "8901000000128",
-      "name": "Dove Shampoo 180ml",
+      "name": "Dove Shampoo",
       "price": 165,
       "weight": 180,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/266681_8-dove-dandruff-care-shampoo.jpg"
     },
     {
-      "barcode": "8901000000129",
-      "name": "Dove Shampoo 340ml",
-      "price": 320,
-      "weight": 340,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40025718_5-dove-oxygen-moisture-shampoo.jpg"
-    },
-    {
       "barcode": "8901000000130",
-      "name": "Tresemme Shampoo 180ml",
+      "name": "Tresemme Shampoo",
       "price": 165,
       "weight": 180,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/40195278-3_3-tresemme-thick-full-shampoo.jpg"
     },
     {
-      "barcode": "8901000000131",
-      "name": "Tresemme Shampoo 340ml",
-      "price": 320,
-      "weight": 340,
-      "category": "Personal Care",
-      "imageUrl": "https://m.media-amazon.com/images/I/41kMJ19-hvL._SL1001_.jpg"
-    },
-    {
       "barcode": "8901000000132",
-      "name": "Head & Shoulders Shampoo 180ml",
+      "name": "Head & Shoulders Shampoo",
       "price": 165,
       "weight": 180,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40333898_1-head-shoulders-7-in-1-anti-dandruff-shampoo.jpg"
-    },
-    {
-      "barcode": "8901000000133",
-      "name": "Head & Shoulders Shampoo 340ml",
-      "price": 320,
-      "weight": 340,
       "category": "Personal Care",
       "imageUrl": "https://www.bbassets.com/media/uploads/p/m/40333898_1-head-shoulders-7-in-1-anti-dandruff-shampoo.jpg"
     },
     {
       "barcode": "8901000000134",
-      "name": "Pantene Shampoo 180ml",
+      "name": "Pantene Shampoo",
       "price": 165,
       "weight": 180,
       "category": "Personal Care",
       "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/307918-2_8-pantene-shampoo-hair-fall-control.jpg"
     },
     {
-      "barcode": "8901000000135",
-      "name": "Pantene Shampoo 340ml",
-      "price": 320,
-      "weight": 340,
-      "category": "Personal Care",
-      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xl/307918-2_8-pantene-shampoo-hair-fall-control.jpg"
-    },
-    {
       "barcode": "8901000000136",
-      "name": "Aashirvaad Whole Wheat Atta 1kg",
+      "name": "Aashirvaad Whole Wheat Atta",
       "price": 60,
       "weight": 1000,
       "category": "Grocery",
@@ -1099,7 +755,7 @@
     },
     {
       "barcode": "8901000000137",
-      "name": "Fortune Whole Wheat Atta 1kg",
+      "name": "Fortune Whole Wheat Atta",
       "price": 60,
       "weight": 1000,
       "category": "Grocery",
@@ -1107,7 +763,7 @@
     },
     {
       "barcode": "8901000000138",
-      "name": "Pillsbury Whole Wheat Atta 1kg",
+      "name": "Pillsbury Whole Wheat Atta",
       "price": 60,
       "weight": 1000,
       "category": "Grocery",
@@ -1115,7 +771,7 @@
     },
     {
       "barcode": "8901000000139",
-      "name": "Nature Fresh Whole Wheat Atta 1kg",
+      "name": "Nature Fresh Whole Wheat Atta",
       "price": 60,
       "weight": 1000,
       "category": "Grocery",
@@ -1123,7 +779,7 @@
     },
     {
       "barcode": "8901000000140",
-      "name": "India Gate Basmati Basmati Rice 1kg",
+      "name": "India Gate Basmati Basmati Rice",
       "price": 135,
       "weight": 1000,
       "category": "Grocery",
@@ -1131,7 +787,7 @@
     },
     {
       "barcode": "8901000000141",
-      "name": "Daawat Basmati Rice 1kg",
+      "name": "Daawat Basmati Rice",
       "price": 135,
       "weight": 1000,
       "category": "Grocery",
@@ -1139,7 +795,7 @@
     },
     {
       "barcode": "8901000000142",
-      "name": "Kohinoor Basmati Rice 1kg",
+      "name": "Kohinoor Basmati Rice",
       "price": 135,
       "weight": 1000,
       "category": "Grocery",
@@ -1147,7 +803,7 @@
     },
     {
       "barcode": "8901000000143",
-      "name": "Fortune Basmati Rice 1kg",
+      "name": "Fortune Basmati Rice",
       "price": 135,
       "weight": 1000,
       "category": "Grocery",
@@ -1155,7 +811,7 @@
     },
     {
       "barcode": "8901000000144",
-      "name": "Tata Sampann Toor Dal 500g",
+      "name": "Tata Sampann Toor Dal",
       "price": 85,
       "weight": 500,
       "category": "Grocery",
@@ -1163,7 +819,7 @@
     },
     {
       "barcode": "8901000000145",
-      "name": "BB Royal Toor Dal 500g",
+      "name": "BB Royal Toor Dal",
       "price": 85,
       "weight": 500,
       "category": "Grocery",
@@ -1171,7 +827,7 @@
     },
     {
       "barcode": "8901000000146",
-      "name": "Pro Nature Toor Dal 500g",
+      "name": "Pro Nature Toor Dal",
       "price": 85,
       "weight": 500,
       "category": "Grocery",
@@ -1179,7 +835,7 @@
     },
     {
       "barcode": "8901000000147",
-      "name": "Tata Sampann Moong Dal 500g",
+      "name": "Tata Sampann Moong Dal",
       "price": 65,
       "weight": 500,
       "category": "Grocery",
@@ -1187,7 +843,7 @@
     },
     {
       "barcode": "8901000000148",
-      "name": "BB Royal Moong Dal 500g",
+      "name": "BB Royal Moong Dal",
       "price": 65,
       "weight": 500,
       "category": "Grocery",
@@ -1195,7 +851,7 @@
     },
     {
       "barcode": "8901000000149",
-      "name": "Pro Nature Moong Dal 500g",
+      "name": "Pro Nature Moong Dal",
       "price": 65,
       "weight": 500,
       "category": "Grocery",
