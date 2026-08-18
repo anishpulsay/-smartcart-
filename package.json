@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "server": "node server/index.js",
-    "ml": "python scovery-ml-camera/server_ml.py",
+    "ml": "python scovery-ml-camera/app.py",
     "pi": "powershell -ExecutionPolicy Bypass -File scovery-ml-camera/remote_pi_start.ps1",
     "scale": "powershell -ExecutionPolicy Bypass -File scovery-ml-camera/remote_pi_scale.ps1",
     "scale:calibrate": "powershell -ExecutionPolicy Bypass -File scovery-ml-camera/remote_pi_scale.ps1 -Calibrate",

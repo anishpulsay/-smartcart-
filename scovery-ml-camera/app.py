@@ -5,6 +5,14 @@ import os
 import requests
 from flask import Flask, request, jsonify
 from ultralytics import YOLO
+import torch
+import ultralytics.nn.tasks
+
+# Fix PyTorch 2.6+ weights_only unpickling error for custom YOLO models
+try:
+    torch.serialization.add_safe_globals([ultralytics.nn.tasks.ClassificationModel])
+except AttributeError:
+    pass  # Older PyTorch versions don't have add_safe_globals
 
 app = Flask(__name__)
 
@@ -22,6 +30,7 @@ MODEL_PATHS = [
     "scovery-ml-camera/runs/classify/train/weights/best.pt",
     "runs/classify/train/weights/best.pt",
     os.path.join(BASE_DIR, "models/best.pt"),
+    "best.pt",
     "yolov8n-cls.pt"
 ]
 
@@ -178,8 +187,9 @@ def video_feed():
 
 if __name__ == '__main__':
     print("=========================================================")
-    print("🚀 PC ML Inference Server Running on http://0.0.0.0:7860 (Cloud/HF Ready)")
+    port = int(os.environ.get("PORT", 7860))
+    print(f"🚀 PC ML Inference Server Running on http://0.0.0.0:{port} (Cloud Ready)")
     print("=========================================================")
     
-    # Run the Flask app directly in the main thread (No local UI window loop needed)
-    app.run(host='0.0.0.0', port=7860, threaded=True)
+    # Run the Flask app directly in the main thread
+    app.run(host='0.0.0.0', port=port, threaded=True)
