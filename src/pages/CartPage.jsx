@@ -14,7 +14,7 @@ export default function CartPage() {
 
   useEffect(() => {
     const fetchScale = () => {
-      fetch('/api/scale')
+      fetch((import.meta.env.VITE_API_URL || '') + '/api/scale')
         .then(r => r.json())
         .then(data => setScale(data))
         .catch(() => {});

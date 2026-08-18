@@ -16,7 +16,8 @@
     "scale:monitor": "powershell -ExecutionPolicy Bypass -File scovery-ml-camera/remote_pi_scale.ps1 -Monitor",
     "pi:all": "powershell -ExecutionPolicy Bypass -File scovery-ml-camera/remote_pi_all.ps1",
     "seed": "node server/seed.js",
-    "start": "concurrently \"npm run dev\" \"npm run server\" \"npm run ml\""
+    "start": "concurrently \"npm run dev\" \"npm run server\" \"npm run ml\"",
+    "start:backend": "node server/index.js"
   },
   "dependencies": {
     "react": "^18.3.1",

@@ -55,7 +55,7 @@ export default function PaymentPage() {
 
     // Try to POST to backend, cache if offline
     try {
-      const res = await fetch('/api/invoices', {
+      const res = await fetch((import.meta.env.VITE_API_URL || '') + '/api/invoices', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(invoice),
@@ -74,12 +74,12 @@ export default function PaymentPage() {
     let intervalId;
     if (paymentMethod === 'upi' && !completed) {
       // 1. Reset backend state on mount
-      fetch('/api/payment/reset', { method: 'POST' }).catch(() => {});
+      fetch((import.meta.env.VITE_API_URL || '') + '/api/payment/reset', { method: 'POST' }).catch(() => {});
       
       // 2. Poll for payment status every 2 seconds
       intervalId = setInterval(async () => {
         try {
-          const res = await fetch('/api/payment/status', { cache: 'no-store' });
+          const res = await fetch((import.meta.env.VITE_API_URL || '') + '/api/payment/status', { cache: 'no-store' });
           const data = await res.json();
           if (data.paid) {
             clearInterval(intervalId);
@@ -258,7 +258,7 @@ export default function PaymentPage() {
               <button 
                 className="btn btn-sm"
                 style={{ background: 'transparent', border: '1px dashed var(--clr-border)', color: 'var(--clr-text-muted)', marginTop: 'var(--sp-4)' }}
-                onClick={() => fetch('/api/payment/webhook', { method: 'POST' })}
+                onClick={() => fetch((import.meta.env.VITE_API_URL || '') + '/api/payment/webhook', { method: 'POST' })}
               >
                 🛠️ Simulate Webhook (Dev)
               </button>

@@ -54,7 +54,7 @@ export async function syncPendingData() {
     let allSynced = true;
     for (const invoice of invoices) {
       try {
-        const res = await fetch('/api/invoices', {
+        const res = await fetch((import.meta.env.VITE_API_URL || '') + '/api/invoices', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(invoice),
@@ -74,7 +74,7 @@ export async function syncPendingData() {
     let allSynced = true;
     for (const anomaly of anomalies) {
       try {
-        const res = await fetch('/api/anomalies', {
+        const res = await fetch((import.meta.env.VITE_API_URL || '') + '/api/anomalies', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(anomaly),

@@ -18,7 +18,7 @@ export default function LiveCameraBar() {
   }, [autoAdd]);
 
   useEffect(() => {
-    fetch('/api/products')
+    fetch((import.meta.env.VITE_API_URL || '') + '/api/products')
       .then(r => r.json())
       .then(data => setProducts(data))
       .catch(err => console.error("Could not load products for camera matching", err));
@@ -27,7 +27,7 @@ export default function LiveCameraBar() {
   useEffect(() => {
     // Poll camera scans and scale status every 1.2 seconds
     const interval = setInterval(() => {
-      fetch('/api/scale')
+      fetch((import.meta.env.VITE_API_URL || '') + '/api/scale')
         .then(r => r.json())
         .then(data => {
           if (data && typeof data.currentWeight === 'number') {
@@ -36,7 +36,7 @@ export default function LiveCameraBar() {
         })
         .catch(console.error);
 
-      fetch('/api/camera_scans')
+      fetch((import.meta.env.VITE_API_URL || '') + '/api/camera_scans')
         .then(r => r.json())
         .then(data => {
           if (Array.isArray(data)) {
@@ -57,7 +57,7 @@ export default function LiveCameraBar() {
   }, [autoAdd, lastAddedId, products, addItem]);
 
   const handleTare = () => {
-    fetch('/api/scale/tare', { method: 'POST' })
+    fetch((import.meta.env.VITE_API_URL || '') + '/api/scale/tare', { method: 'POST' })
       .then(r => r.json())
       .then(data => {
         if (data.scale) setScale(data.scale);
@@ -66,7 +66,7 @@ export default function LiveCameraBar() {
   };
 
   const handleSimulateWeight = (grams, name = null) => {
-    fetch('/api/scale/simulate_add', {
+    fetch((import.meta.env.VITE_API_URL || '') + '/api/scale/simulate_add', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ grams, item_name: name })
@@ -139,7 +139,7 @@ export default function LiveCameraBar() {
     addItem(matchedProduct);
 
     // Verify weight with Load Cell API
-    fetch('/api/scale/simulate_add', {
+    fetch((import.meta.env.VITE_API_URL || '') + '/api/scale/simulate_add', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -167,7 +167,7 @@ export default function LiveCameraBar() {
   };
 
   const clearScans = () => {
-    fetch('/api/camera_scans', { method: 'DELETE' })
+    fetch((import.meta.env.VITE_API_URL || '') + '/api/camera_scans', { method: 'DELETE' })
       .then(() => setScans([]))
       .catch(console.error);
   };
@@ -287,7 +287,7 @@ export default function LiveCameraBar() {
       {showVideo && (
         <div style={styles.videoBox}>
           <img 
-            src="http://localhost:5000/video_feed" 
+            src={`${import.meta.env.VITE_ML_URL || 'http://localhost:5000'}/video_feed`} 
             alt="Raspberry Pi Live ML Feed" 
             style={styles.videoStream}
           />

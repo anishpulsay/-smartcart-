@@ -40,7 +40,7 @@ model = YOLO(model_path)
 print(f"✨ [SUCCESS] Loaded Custom Trained AI Model with classes: {list(model.names.values())[:10]}...")
 
 # Node.js backend endpoint where detected scans are added
-NODE_API_URL = "http://localhost:3001/api/camera_scans"
+NODE_API_URL = os.environ.get("NODE_API_URL", "http://localhost:3001/api/camera_scans")
 
 # Debounce tracking so holding an item doesn't spam 50 items per second
 last_sent_time = {}
@@ -178,23 +178,8 @@ def video_feed():
 
 if __name__ == '__main__':
     print("=========================================================")
-    print("🚀 PC ML Inference Server Running on http://0.0.0.0:5000")
+    print("🚀 PC ML Inference Server Running on http://0.0.0.0:7860 (Cloud/HF Ready)")
     print("=========================================================")
     
-    server_thread = threading.Thread(target=lambda: app.run(host='0.0.0.0', port=5000, threaded=True), daemon=False)
-    server_thread.start()
-    
-    try:
-        while True:
-            try:
-                frame = get_display_frame()
-                if frame is not None:
-                    cv2.imshow("Scovery PC Live ML Camera Stream", frame)
-                key = cv2.waitKey(30) & 0xFF
-                if key == ord('q'):
-                    break
-            except Exception:
-                time.sleep(0.1)
-            time.sleep(0.03)
-    except KeyboardInterrupt:
-        pass
+    # Run the Flask app directly in the main thread (No local UI window loop needed)
+    app.run(host='0.0.0.0', port=7860, threaded=True)

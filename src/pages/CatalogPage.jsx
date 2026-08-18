@@ -12,7 +12,7 @@ export default function CatalogPage() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch('/api/products')
+    fetch((import.meta.env.VITE_API_URL || '') + '/api/products')
       .then(r => r.json())
       .then(data => {
         setProducts(data);
@@ -48,7 +48,7 @@ export default function CatalogPage() {
       flagAnomaly(anomaly);
 
       try {
-        await fetch('/api/anomalies', {
+        await fetch((import.meta.env.VITE_API_URL || '') + '/api/anomalies', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(anomaly),
