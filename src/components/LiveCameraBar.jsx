@@ -195,7 +195,7 @@ export default function LiveCameraBar() {
           <span style={styles.pulseDot} className="pulse-dot" />
           <div>
             <h4 style={styles.title}>📡 Scovery ML Smart Camera Live Feed</h4>
-            <span style={styles.subText}>Connected to Raspberry Pi Zero-Latency Stream (`10.14.220.44:5000`)</span>
+            <span style={styles.subText}>Connected to Raspberry Pi Zero-Latency Stream (`Render Cloud Relay`)</span>
           </div>
         </div>
 
