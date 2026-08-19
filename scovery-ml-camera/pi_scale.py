@@ -29,7 +29,7 @@ except ImportError:
 
 # Default PC Server API
 PC_SERVER_IP = "10.149.21.44"  # <-- Windows PC IP
-SCALE_API_URL = f"http://{PC_SERVER_IP}:3001/api/scale"
+SCALE_API_URL = "https://smartcart-hvp3.onrender.com/api/scale"
 CONFIG_FILE = Path("scale_config.json")
 
 # Default settings
