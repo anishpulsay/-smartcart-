@@ -287,7 +287,7 @@ export default function LiveCameraBar() {
       {showVideo && (
         <div style={styles.videoBox}>
           <img 
-            src={`${import.meta.env.VITE_ML_URL || 'http://localhost:7860'}/video_feed`} 
+            src={`http://localhost:7860/video_feed`} 
             alt="Raspberry Pi Live ML Feed" 
             style={styles.videoStream}
           />
