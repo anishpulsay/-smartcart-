@@ -9,8 +9,8 @@ from pathlib import Path
 # CONFIGURATION - UPDATE THIS WITH YOUR WINDOWS PC IP ADDRESS!
 # Example: If your Windows PC IP is 192.168.1.45, set below:
 # =========================================================================
-PC_SERVER_IP = "10.149.21.44"  # <-- REPLACE WITH YOUR WINDOWS PC IP (run 'ipconfig' on PC)
-SERVER_URL = "https://smart-cart-ml.onrender.com/predict"
+PC_SERVER_IP = "Anishs-MacBook-Air.local"  # <-- Mac Hostname
+SERVER_URL = "http://Anishs-MacBook-Air.local:7860/predict"
 
 CAMERA_INDEX = 0             # 0 for first USB webcam connected to Pi
 CACHE_DIR = Path("offline_cache")

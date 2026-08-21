@@ -158,7 +158,7 @@ def predict():
 
 def get_display_frame():
     global latest_annotated_frame, last_frame_timestamp, placeholder
-    if time.time() - last_frame_timestamp > 4.0 and last_frame_timestamp > 0:
+    if time.time() - last_frame_timestamp > 15.0 and last_frame_timestamp > 0:
         disc = np.zeros((480, 640, 3), dtype=np.uint8)
         disc[:] = (26, 20, 50)
         cv2.putText(disc, "Scovery SmartCart Camera", (140, 190), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 214, 143), 2)
