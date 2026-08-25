@@ -49,12 +49,16 @@ model = YOLO(model_path)
 print(f"✨ [SUCCESS] Loaded Custom Trained AI Model with classes: {list(model.names.values())[:10]}...")
 
 # Node.js backend endpoint where detected scans are added
-NODE_API_URL = os.environ.get("NODE_API_URL", "http://localhost:3001/api/camera_scans")
+from config import ADD_ITEM_ENDPOINT
+# Node.js backend endpoint where detected scans are added (loaded from config)
+NODE_API_URL = os.environ.get("NODE_API_URL", ADD_ITEM_ENDPOINT)
 
 # Debounce tracking so holding an item doesn't spam 50 items per second
 last_sent_time = {}
 DEBOUNCE_SECONDS = 3.0
-CONFIDENCE_THRESHOLD = 0.70
+
+# LOWERED THRESHOLD: So that low confidence scans are sent to the UI to be verified by load cell!
+CONFIDENCE_THRESHOLD = 0.35 
 
 # Global variable for live streaming with clean initial placeholder
 import threading
@@ -141,7 +145,12 @@ def predict():
                 try:
                     requests.post(NODE_API_URL, json=payload, timeout=2.0)
                 except Exception as e:
-                    print(f"[ERROR] Could not forward to Node.js backend at {NODE_API_URL}: {e}")
+                    print("\n" + "="*50)
+                    print(f"🚨 [CRITICAL ERROR] Failed to send scan to website UI!")
+                    print(f"🚨 Tried to POST to: {NODE_API_URL}")
+                    print(f"🚨 Error Details: {e}")
+                    print(f"🚨 Fix: Make sure the Node.js backend is actually running on port 3001.")
+                    print("="*50 + "\n")
 
                 last_sent_time[class_name] = now
                 detected = True

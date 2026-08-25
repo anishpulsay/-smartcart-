@@ -11,7 +11,9 @@ export default function LiveCameraBar() {
   const [showVideo, setShowVideo] = useState(true);
   const [products, setProducts] = useState([]);
   const [lastAddedId, setLastAddedId] = useState(null);
-  const { addItem, flagAnomaly } = useCart();
+  const { items, addItem, flagAnomaly, setPendingWeight } = useCart();
+  
+  const expectedTotalWeight = items.reduce((sum, item) => sum + (item.weight || 0) * item.quantity, 0);
 
   useEffect(() => {
     localStorage.setItem('smartcart_auto_add', JSON.stringify(autoAdd));
@@ -29,32 +31,47 @@ export default function LiveCameraBar() {
     const interval = setInterval(() => {
       fetch((import.meta.env.VITE_API_URL || '') + '/api/scale')
         .then(r => r.json())
-        .then(data => {
-          if (data && typeof data.currentWeight === 'number') {
-            setScale(data);
+        .then(scaleData => {
+          if (scaleData && typeof scaleData.currentWeight === 'number') {
+            setScale(scaleData);
           }
+          
+          fetch((import.meta.env.VITE_API_URL || '') + '/api/camera_scans')
+            .then(r => r.json())
+            .then(data => {
+              if (Array.isArray(data)) {
+                setScans(data);
+                if (autoAdd && data.length > 0) {
+                  const latest = data[data.length - 1];
+                  if (latest.id !== lastAddedId && latest.confidence >= 35) {
+                    
+                    // Match the product to find expected weight
+                    let matchedProduct = findBestMatchProduct(latest.item_name);
+                    
+                    const expectedWeight = matchedProduct ? matchedProduct.weight : 150;
+                    // Calculate discrepancy between current scale weight and expected cart total
+                    const currentScaleWeight = scaleData ? scaleData.currentWeight : 0;
+                    const discrepancy = currentScaleWeight - expectedTotalWeight;
+                    
+                    // Allow +/- 30g tolerance for the newly added item
+                    if (Math.abs(discrepancy - expectedWeight) <= 30) {
+                      setLastAddedId(latest.id);
+                      handleAddToCart(latest, true); // true = skip simulation since it's already on scale
+                    } else {
+                      // Do not add, do not update lastAddedId so it tries again
+                      console.log(`Weight mismatch for ${latest.item_name}: expected item weight ${expectedWeight}g, but cart weight discrepancy is ${discrepancy}g. Waiting for scale to match...`);
+                    }
+                  }
+                }
+              }
+            })
+            .catch(err => console.error("Error polling camera scans:", err));
         })
         .catch(console.error);
-
-      fetch((import.meta.env.VITE_API_URL || '') + '/api/camera_scans')
-        .then(r => r.json())
-        .then(data => {
-          if (Array.isArray(data)) {
-            setScans(data);
-            if (autoAdd && data.length > 0) {
-              const latest = data[data.length - 1];
-              if (latest.id !== lastAddedId && latest.confidence >= 70) {
-                setLastAddedId(latest.id);
-                handleAddToCart(latest);
-              }
-            }
-          }
-        })
-        .catch(err => console.error("Error polling camera scans:", err));
     }, 1200);
 
     return () => clearInterval(interval);
-  }, [autoAdd, lastAddedId, products, addItem]);
+  }, [autoAdd, lastAddedId, products, addItem, expectedTotalWeight]);
 
   const handleTare = () => {
     fetch((import.meta.env.VITE_API_URL || '') + '/api/scale/tare', { method: 'POST' })
@@ -65,7 +82,7 @@ export default function LiveCameraBar() {
       .catch(console.error);
   };
 
-  const handleSimulateWeight = (grams, name = null) => {
+  const handleSimulateWeight = (grams = 100, name = 'Simulated Item') => {
     fetch((import.meta.env.VITE_API_URL || '') + '/api/scale/simulate_add', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -78,9 +95,9 @@ export default function LiveCameraBar() {
       .catch(console.error);
   };
 
-  const handleAddToCart = (scan) => {
-    // Try to match scan.item_name with existing catalog using exact & scored word matching
-    const query = scan.item_name.toLowerCase().replace(/_/g, ' ').trim();
+  const findBestMatchProduct = (itemName) => {
+    if (!itemName) return null;
+    const query = itemName.toLowerCase().replace(/_/g, ' ').trim();
     const queryWords = query.split(/\s+/).filter(w => w.length > 1);
     
     let matchedProduct = null;
@@ -89,7 +106,6 @@ export default function LiveCameraBar() {
     products.forEach(p => {
       const pName = p.name.toLowerCase().replace(/_/g, ' ').trim();
       
-      // 1. Exact match gets highest priority
       if (pName === query) {
         if (bestScore < 1000) {
           bestScore = 1000;
@@ -98,7 +114,6 @@ export default function LiveCameraBar() {
         return;
       }
 
-      // 2. Full string substring match
       if (pName.includes(query) || query.includes(pName)) {
         const score = 500 + Math.min(pName.length, query.length);
         if (score > bestScore) {
@@ -112,10 +127,10 @@ export default function LiveCameraBar() {
       const pWords = pName.split(/\s+/).filter(w => w.length > 1);
       if (queryWords.length > 0 && pWords.length > 0) {
         const matchedWords = queryWords.filter(qw => pWords.includes(qw));
-        // Require at least half of the query or product words to match
+        // Require at least half of the query or product words to match OR the primary brand word (first word) matches
         const overlapRatio = matchedWords.length / Math.max(queryWords.length, pWords.length);
-        if (matchedWords.length > 0 && (overlapRatio >= 0.5 || (matchedWords.length >= 2 && matchedWords[0] === pWords[0]))) {
-          const score = overlapRatio * 100;
+        if (matchedWords.length > 0 && (overlapRatio >= 0.4 || matchedWords.includes(pWords[0]))) {
+          const score = overlapRatio * 100 + (matchedWords.includes(pWords[0]) ? 50 : 0);
           if (score > bestScore && score >= 40) {
             bestScore = score;
             matchedProduct = p;
@@ -123,6 +138,12 @@ export default function LiveCameraBar() {
         }
       }
     });
+    return matchedProduct;
+  };
+
+  const handleAddToCart = (scan, skipSimulation = false) => {
+    const query = scan.item_name.toLowerCase().replace(/_/g, ' ').trim();
+    let matchedProduct = findBestMatchProduct(scan.item_name);
 
     // If no match in catalog, create dynamic ML item
     if (!matchedProduct) {
@@ -138,20 +159,22 @@ export default function LiveCameraBar() {
 
     addItem(matchedProduct);
 
-    // Verify weight with Load Cell API
-    fetch((import.meta.env.VITE_API_URL || '') + '/api/scale/simulate_add', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        grams: matchedProduct.weight || 100,
-        item_name: matchedProduct.name
+    // Verify weight with Load Cell API (Skip if we already verified via real scale reading)
+    if (!skipSimulation) {
+      fetch((import.meta.env.VITE_API_URL || '') + '/api/scale/simulate_add', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          grams: matchedProduct.weight || 100,
+          item_name: matchedProduct.name
+        })
       })
-    })
-      .then(r => r.json())
-      .then(data => {
-        if (data.scale) setScale(data.scale);
-      })
-      .catch(console.error);
+        .then(r => r.json())
+        .then(data => {
+          if (data.scale) setScale(data.scale);
+        })
+        .catch(console.error);
+    }
 
     // If item was recovered from offline SD cache, trigger a visual confirmation alert
     if (scan.offline_recovered) {
@@ -174,19 +197,18 @@ export default function LiveCameraBar() {
 
   const latestScan = scans.length > 0 ? scans[scans.length - 1] : null;
 
-  const findCatalogProduct = (itemName) => {
-    if (!itemName) return null;
-    const query = itemName.toLowerCase().replace(/_/g, ' ').trim();
-    let matched = products.find(p => p.name.toLowerCase().replace(/_/g, ' ').trim() === query);
-    if (!matched) {
-      matched = products.find(p => p.name.toLowerCase().replace(/_/g, ' ').includes(query) || query.includes(p.name.toLowerCase().replace(/_/g, ' ')));
-    }
-    return matched;
-  };
-
-  const matchedLatest = latestScan ? findCatalogProduct(latestScan.item_name) : null;
+  const matchedLatest = latestScan ? findBestMatchProduct(latestScan.item_name) : null;
   const expectedWeight = matchedLatest ? matchedLatest.weight : 150;
-  const isWeightVerified = Math.abs((scale?.lastDelta || 0) - expectedWeight) <= 30;
+  const currentDiscrepancy = (scale?.currentWeight || 0) - expectedTotalWeight;
+  const isWeightVerified = Math.abs(currentDiscrepancy - expectedWeight) <= 30;
+
+  useEffect(() => {
+    if (latestScan && latestScan.id !== lastAddedId) {
+      setPendingWeight(expectedWeight);
+    } else {
+      setPendingWeight(0);
+    }
+  }, [latestScan, lastAddedId, expectedWeight, setPendingWeight]);
 
   return (
     <div style={styles.container} className="glass">
@@ -330,7 +352,7 @@ export default function LiveCameraBar() {
                   alignItems: 'center',
                   gap: '4px'
                 }}>
-                  ⚖️ Scale Delta: {scale?.lastDelta > 0 ? `+${scale.lastDelta}g` : `${scale?.lastDelta || 0}g`} ({isWeightVerified ? 'Verified Match ✅' : 'Scale Checking... ⌛'})
+                  ⚖️ Scale Delta: {currentDiscrepancy > 0 ? `+${currentDiscrepancy}g` : `${currentDiscrepancy}g`} ({isWeightVerified ? 'Verified Match ✅' : 'Scale Checking... ⌛'})
                 </span>
                 {latestScan.offline_recovered && (
                   <span style={styles.offlineRecoveryBadge}>
@@ -357,7 +379,7 @@ export default function LiveCameraBar() {
               <span style={styles.historyLabel}>Recent Scans:</span>
               <div style={styles.historyChips}>
                 {scans.slice(-6).reverse().map((s, idx) => {
-                  const m = findCatalogProduct(s.item_name);
+                  const m = findBestMatchProduct(s.item_name);
                   return (
                     <div key={idx} style={styles.chip} onClick={() => handleAddToCart(s)} title="Click to add to cart">
                       <span>{s.item_name.replace('_', ' ')}</span>
