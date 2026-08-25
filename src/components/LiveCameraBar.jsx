@@ -354,11 +354,7 @@ export default function LiveCameraBar() {
                 }}>
                   ⚖️ Scale Delta: {currentDiscrepancy > 0 ? `+${currentDiscrepancy}g` : `${currentDiscrepancy}g`} ({isWeightVerified ? 'Verified Match ✅' : 'Scale Checking... ⌛'})
                 </span>
-                {latestScan.offline_recovered && (
-                  <span style={styles.offlineRecoveryBadge}>
-                    🌐 SD Card Offline Sync
-                  </span>
-                )}
+                
               </div>
               <p style={styles.timestamp}>
                 Scanned at {new Date(latestScan.timestamp * 1000 || Date.now()).toLocaleTimeString()}

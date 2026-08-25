@@ -116,8 +116,6 @@ def predict():
             # Draw sleek top header banner on video frame
             cv2.rectangle(annotated, (0, 0), (640, 50), (16, 16, 36), -1)
             label_text = f"DETECTED: {class_name.upper()} ({confidence*100:.1f}%)"
-            if is_offline_sync:
-                label_text = f"[SD OFFLINE RECOVERY] {label_text}"
             cv2.putText(annotated, label_text, (15, 33), cv2.FONT_HERSHEY_SIMPLEX, 0.7, color, 2)
             
             # Draw bottom branding
